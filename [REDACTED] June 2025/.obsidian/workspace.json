@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "d39271a1a7513a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7fa8e1646c408c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0495f93c2a181093",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4be9bef6633d8f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eefa4057611c970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23fdb13fcf65c163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "248d3028d9b2c777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8164b009c29709a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d7f03e4d16038a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c380fbbb8e05f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3ccaf98fd5e7be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REPORT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для REPORT"
+            }
+          },
+          {
+            "id": "0153fcfc4a6e8bbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REPORT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из REPORT"
+            }
+          },
+          {
+            "id": "5225ba906b7e75c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c9c6b0d27a0e7864",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "1d877bf7f28fbbf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REPORT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура REPORT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "0495f93c2a181093",
+  "lastOpenFiles": [
+    "Без названия",
+    "REPORT.md",
+    "screenshot_260604_132423.png",
+    "screenshot_260604_132122.png",
+    "screenshot_260604_131020.png",
+    "screenshot_260604_130056.png",
+    "screenshot_260604_130219.png",
+    "screenshot_260604_125616.png",
+    "screenshot_260604_124551.png",
+    "screenshot_260604_123526.png",
+    "TCP.png"
+  ]
+}
