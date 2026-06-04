@@ -1,5 +1,5 @@
 Author: Ray1N
-Client: [REDACTED]
+Client: TryHackMe Room(Internal)
 Objective: Assecc the security posture of the target host and determine whether administrative access can be obtained.
 Date: June 2025
 
